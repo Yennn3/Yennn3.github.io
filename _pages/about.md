@@ -46,6 +46,7 @@ Hellllo, this is Yan, I don't know who will come to my homepage to get to know m
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
+<!--
 # 📖 Educations
 -  2024.09 - 2025.06 (expected), Msc of Voice Technology, University of Groningen
 -  <br> 
@@ -54,6 +55,7 @@ Hellllo, this is Yan, I don't know who will come to my homepage to get to know m
 -  2021.09 - 2023.06, Exchange Student, University of Zaragoza
 -  <br>
 -  2019.09 - 2021.06, Bachelor of Spanish Language, Heilongjiang International University
+-->
 
 <!-- 
 # 💬 Invited Talks
