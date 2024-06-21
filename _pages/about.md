@@ -19,7 +19,7 @@ redirect_from:
 
 Hellllo, this is Yan, I don't know who will come to my homepage to get to know me, but thank you hahaha. I'm a student of University of Groningen now, I'm focusing on LLM, NLP and their application design. Actually I'm not a very experienced CS researcher, my bechelor's degree is in linguistics, however, I have always had a great interest in CS, so I decided to start studying computer science and dive into field of machine learning, while learning, I also would like to put some interesting projects in the github. Let's move forward together.
 
-
+<!--
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -39,7 +39,7 @@ Hellllo, this is Yan, I don't know who will come to my homepage to get to know m
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
+-->
 <!--
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
