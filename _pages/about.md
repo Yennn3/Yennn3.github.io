@@ -47,8 +47,9 @@ Hellllo, this is Yan, I don't know who will come to my homepage to get to know m
 -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-  Msc of Voice Technology, University of Groningen, 2024.09 - 2025.06 (expected)
+-  vot              wts 
+- 2023.09 - 2024.06, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 <!-- 
 # 💬 Invited Talks
